@@ -48,8 +48,8 @@
     "gulp": "^3.9.0",
     "gulp-babel": "^6.1.0",
     "gulp-sourcemaps": "^1.6.0",
-    "loopback": "2.x",
-    "loopback-boot": "2.x",
+    "loopback": "3.x",
+    "loopback-boot": "3.x",
     "mocha": "^2.3.4"
   }
 }
